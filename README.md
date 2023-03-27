@@ -15,3 +15,5 @@ Then: Data Visualization
 Finally: Modelling using SMOTE to counter the imbalance in the data. Use of Logistic Regression; Random Forest Classifier; XGBoost Classifier; LightGBM; CatBoost and Support Vector Machines Classifier. Then hyperparameters fine-tuning using RandomizedSearch with 5-fold cross-validation over XGBoost and CatBoost.
 
 We get an accuracy of 82% with XGBoost fine-tuned.
+
+Data: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
